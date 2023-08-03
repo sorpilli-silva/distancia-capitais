@@ -1,0 +1,31 @@
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    background-color: bisque;
+}
+td{
+    width: 140px;
+}
+ 
+tr{
+   height: 50px;
+   background-color: x;
+}
+teble {
+    width: 100%;
+}
+th {
+    height: 50px;
+}
+th {
+    background-color:rgb(181, 209, 68);
+    color: black;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+    
